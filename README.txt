@@ -35,8 +35,6 @@ The project incorporates multiple software design patterns to improve extensibil
 
 ## Project Structure
 
-
-```
 src/
 ├── puzzle/
 ├── factory/
@@ -44,7 +42,6 @@ src/
 ├── state/
 ├── scheduler/
 └── ...
-```
 
 
 ## Learning Objectives
