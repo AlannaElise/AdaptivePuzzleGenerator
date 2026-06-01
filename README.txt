@@ -36,7 +36,7 @@ The project incorporates multiple software design patterns to improve extensibil
 ## Project Structure
 
 
-```text
+```
 src/
 ├── puzzle/
 ├── factory/
